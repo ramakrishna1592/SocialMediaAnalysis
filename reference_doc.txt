@@ -1,0 +1,9 @@
+https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+
+Register Your App
+  socialGREP
+
+Accessing the Data
+  tweepy - implemented in tweepy_oAuth.py
+  Streaming
+  
